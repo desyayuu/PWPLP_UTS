@@ -40,58 +40,19 @@
             <a href="{{Route ('dash')}}" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                Dashboard
+                User
               </p>
             </a>
           </li>
           <li class="nav-item">
-            <a href="../widgets.html" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                 Profil
-                <i class="fas fa-angle-left right"></i>
-                <span class="badge badge-info right">2</span>
+                Data Pegawai
               </p>
             </a>
-            <ul class="nav nav-treeview">
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="far fa-circle nav-icon"></i>
-                    <p>Desy Ayurianti</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="far fa-circle nav-icon"></i>
-                    <p>Maria Fadilla</p>
-                  </a>
-                </li>
-              </ul>
           </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-copy"></i>
-              <p>
-                Pengalaman Kuliah
-                <i class="fas fa-angle-left right"></i>
-                <span class="badge badge-info right">2</span>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Desy Ayurianti</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Maria Fadilla</p>
-                </a>
-              </li>
-            </ul>
-          </li>
+          
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

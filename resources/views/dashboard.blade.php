@@ -19,7 +19,7 @@
     <div class="card">
         <div class="card-header border-0">
             <div class="card-body">
-            Selamat Datang 
+            Selamat Datang, 
             </div>
         </div>
     </div>
